@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+#num {
+    font-size: 200px
+}
+
+#num:hover {
+    cursor: pointer;
+}

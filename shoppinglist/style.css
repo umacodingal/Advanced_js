@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: left;
+    font-family: Algerian
+}
+
+#demo {
+    height: =400px;
+    width: 300px;
+    background: lightblue
+}
+
+label {
+    color: blue;
+    font-family: arial
+}
